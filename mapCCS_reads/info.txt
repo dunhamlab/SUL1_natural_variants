@@ -1,0 +1,1 @@
+This folder contains scripts that are for taking PacBio ccs.bam reads and aligning them to the plasmid reference file. 

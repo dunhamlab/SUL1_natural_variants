@@ -1,1 +1,2 @@
 Files in this folder are for formatting files for FitSeq
+I used the MatLab version of FitSeq, which can be found here https://github.com/sashaflevy/Fit-Seq
